@@ -1,11 +1,31 @@
+
 .heading {
     background-color: #FF7F7F
     ;
     color: white;
     text-align: center;
+}
 
+.title-recipe {
+    text-align: center;
+   
+}
+
+.title {
+    font-size: larger;
+    font-weight: bold;
+}
+
+.title-recipe p {
+    margin: 0;
 }
 
 .recipe-links {
-    color: black;
+    margin-top: 30px;
+    text-align: center;
+    
+}
+.recipe-links a {
+    display: block;
+    margin: 5px auto;
 }
